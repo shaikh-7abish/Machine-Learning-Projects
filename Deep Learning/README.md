@@ -53,4 +53,9 @@
   - **Technologies Used:** The tools and libraries used in this project.
       - TensorFlow
       - CNN
-
+   
+- [Chicken Fecal Disease Classification](https://github.com/shaikh-7abish/Chicken_Disease_Classification)
+  - **Description:** This Project is used to classify Chicken Fecal Disease from Images and created with Modular Programming.
+  - **Technologies Used:** The tools and libraries used in this project.
+      - TensorFlow
+      - CNN
