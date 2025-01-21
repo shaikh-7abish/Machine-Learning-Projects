@@ -5,7 +5,7 @@ This repository is a collection of various machine learning projects I've worked
 
 ## Getting Started
 
-If you'd like to explore any of these projects, simply click on the project's folder link above. You'll find detailed documentation, code, and instructions on how to reproduce the results.
+If you'd like to explore any of these projects, simply click on the project's folder link below. You'll find detailed documentation, code, and instructions on how to reproduce the results.
 
 - <a href='https://github.com/shaikh-7abish/MachineLearningProjects/tree/main/Supervised%20Learning'>Supervised Learning</a>
 - <a href='https://github.com/shaikh-7abish/MachineLearningProjects/tree/main/Unsupervised%20Learning'>Un-Supervised Learning</a>
